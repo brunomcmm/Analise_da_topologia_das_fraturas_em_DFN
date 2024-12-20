@@ -39,7 +39,7 @@ git clone https://github.com/brunomcmm/Analise_da_topologia_das_fraturas_em_DFN.
 
 2. Instale as dependências:
 ```bash
-pip install PyQt5
+pip install matplotlib PyQt5
 ```
 
 3. Execute o programa:
