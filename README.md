@@ -47,5 +47,5 @@ pip install PyQt5
 python main.py
 ```
 
-## Contribuições
+### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
