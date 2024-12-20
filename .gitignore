@@ -1,0 +1,8 @@
+# Ignorar o diretório __pycache__
+__pycache__/
+
+# Ignorar todos os arquivos .txt gerados pelo programa
+*.txt
+
+# Ignorar todos os arquivos .png gerados pelo programa
+*.png
