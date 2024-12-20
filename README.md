@@ -18,12 +18,16 @@ Este projeto tem como objetivo realizar a análise da topologia de fraturas repr
 ## Estrutura do Projeto
 **`main.py`**:
 - Ponto de entrada do programa, gerencia a interação entre os módulos.
+
 **`gui.py`**:
 - Implementa a interface gráfica usando PyQt5.
+
 **`dfn_parser.py`**:
 - Realiza a leitura e processamento dos arquivos DFN.
+
 **`topology_analyzer.py`**:
 - Responsável por analisar a topologia das fraturas.
+
 **`results_exporter.py`**:
 - Exporta os resultados da análise para arquivos .txt.
 
